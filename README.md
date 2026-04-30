@@ -3,24 +3,24 @@
 """
 # Customer Segmentation System
 
-## 📌 Overview
+ Overview
 A machine learning-based system that groups customers into distinct segments based on purchasing behavior, demographics, and interaction patterns. It helps businesses understand customer needs and design targeted marketing strategies to improve engagement and sales.
 
-## 🚀 Features
+ Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Customer segmentation using clustering algorithms (e.g., K-Means)
 - Visualization of customer groups
 - Insights for targeted marketing strategies
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## 📂 Project Structure
+ Project Structure
 ├── data/                  # Dataset files  
 ├── notebooks/             # Jupyter notebooks (EDA & modeling)  
 ├── outputs/               # Generated plots and results  
@@ -28,7 +28,7 @@ A machine learning-based system that groups customers into distinct segments bas
 ├── requirements.txt       # Dependencies  
 └── README.md              # Project documentation  
 
-## ⚙️ Installation
+ Installation
 1. Clone the repository:
    git clone https://github.com/yourusername/customer-segmentation-system.git
 
@@ -38,23 +38,23 @@ A machine learning-based system that groups customers into distinct segments bas
 3. Install dependencies:
    pip install -r requirements.txt
 
-## ▶️ Usage
+ Usage
 Run the main script:
    python app.py
 
-## 📊 Output
+ Output
 - Clustered customer groups
 - Visualizations of segments
 - Insights for business decision-making
 
-## 🎯 Applications
+ Applications
 - Personalized marketing
 - Customer targeting
 - Business strategy optimization
 
-## 🤝 Contributing
+ Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-## 📜 License
+ License
 This project is licensed under the MIT License.
 """
